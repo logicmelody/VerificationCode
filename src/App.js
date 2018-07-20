@@ -6,8 +6,6 @@ import {
 } from "react-native";
 import Verification from "react-native-verification";
 
-
-
 class App extends Component {
 	constructor(props) {
 		super(props);
